@@ -1,0 +1,16 @@
+Toda Servlet é uma classe java, que fica
+do lado do servidor(Server-Side), responsaveis
+por processar os dados que vem do front-end ou tela.
+Como o formulário conversa com as Servlets?
+Através da URL, na tela temos os formulários
+Mapeia-se a URL com o form, e ao clicar em salvar
+a requisição vai para o servidor que a classe java
+vem para interceptar a solicitação, indo para o processamento
+back-end.
+O Servlet também se comunica com o client-side
+utilizando os métodos HTTP, como POST,GET,PUT e DELETE
+POST: Criar novo.
+GET: Consultar.
+PUT: Atualizar.
+DELETE: Deletar, Excluir.
+
