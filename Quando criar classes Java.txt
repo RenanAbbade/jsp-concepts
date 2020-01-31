@@ -1,0 +1,12 @@
+Quando criar classes em Java?
+
+É necessário criar classes em Java, normalmente
+linguagem de Back-end (Server Side) nos seguintes
+casos:
+
+1)Processamento do lado do servidor.
+2)Obter dados no banco.
+3)Quando é inviavel no JS.
+4)Quando precisar processar dados.
+5)Quando realizar o CRUD.
+6)Tudo relacionado ao lado do Servidor.
